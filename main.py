@@ -1,2 +1,2 @@
-def multiplication(a, b, d):
-    return a * b * d
+def multiplication(a, b, d, e):
+    return a * b * d * e
