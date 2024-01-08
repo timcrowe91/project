@@ -1,1 +1,1 @@
-# Coming soon, app for Le Wagon project
+# Coming soon, app for project
